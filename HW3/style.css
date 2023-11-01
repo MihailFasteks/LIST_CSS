@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: green;
+}
+dt, h3{
+    color: red;
+    font-weight: bold;
+}
+body{
+    font-family: sans-serif;
+}
+hr{
+    color: red;
+    background-color: red;
+    height:1px;
+    border: none;
+}
+h2{
+    color: red;
+    text-align: left;
+    font-weight: bold;
+}
+ul li{
+    list-style-type:square;
+}
+ul ul li{
+    list-style-type:disc;
+}

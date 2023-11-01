@@ -1,0 +1,20 @@
+ h1{
+    text-align: center;
+}
+
+ul li{
+    margin-left: 700px;
+}
+ol ul li{
+    margin-left: 0px;
+}
+
+ol>li:first-child>ul>li{
+    list-style-type: square;
+}
+ol>li:first-child>ul>li{
+    list-style-type: square;
+}
+ol>li:nth-child(2)>ul>li{
+    list-style-type: disc;
+}
